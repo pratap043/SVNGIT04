@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-1968-A1E7-8247-89AA966E624F">
+	<DocumentID>00505601-1968-A1E7-8247-89AA966E224F</DocumentID>
+	<Name>00505601-1968-A1E7-8247-89AA966E224F</Name>
+	<Description>Localae Property</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2017-03-15T01:30:31.434</CreationDate>
+	<Notes/>
+	<DefaultText>Localae Property</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-1968-A1E7-8247-4FD21007E24F"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-1968-A1E7-8247-89AA966EA24F"
+		/>
+	</Translations>
+</TextIdentifier>

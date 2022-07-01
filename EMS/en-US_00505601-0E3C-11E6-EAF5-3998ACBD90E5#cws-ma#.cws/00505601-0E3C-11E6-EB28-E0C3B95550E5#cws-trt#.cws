@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB28-E0C3B95570E5">
+	<DocumentID>00505601-0E3C-11E6-EB28-E0C3B95550E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB28-E0C3B95550E5</Name>
+	<Description>LayoutForiHubReports</Description>
+	<CreatedBy>Henri Kas</CreatedBy>
+	<CreationDate>2016-08-03T07:02:41.95</CreationDate>
+	<Notes/>
+	<Text>LayoutForiHubReports</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB28-E0C3B95510E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1968-A1E7-8247-BFF33015624F">
+	<DocumentID>00505601-1968-A1E7-8247-BFF33015224F</DocumentID>
+	<Name>00505601-1968-A1E7-8247-BFF33015224F</Name>
+	<Description>DynamicEnumList</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2017-03-15T01:32:22.295</CreationDate>
+	<Notes/>
+	<Text>DynamicEnumList</Text>
+	<Language>
+		<uri
+			id="00505601-1968-A1E7-8247-4FD21008E24F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1968-A1E7-8247-BFF33014A24F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

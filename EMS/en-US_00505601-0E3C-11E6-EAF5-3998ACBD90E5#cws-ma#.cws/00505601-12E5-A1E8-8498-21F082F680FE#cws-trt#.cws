@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-12E5-A1E8-8498-21F082F6C0FE">
+	<DocumentID>00505601-12E5-A1E8-8498-21F082F680FE</DocumentID>
+	<Name>00505601-12E5-A1E8-8498-21F082F680FE</Name>
+	<Description>warningRule</Description>
+	<CreatedBy>Administrator</CreatedBy>
+	<CreationDate>2018-02-15T14:58:54.192</CreationDate>
+	<Notes/>
+	<Text>warningRule</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-12E5-A1E8-8498-21F082F600FE"
+		/>
+	</TextIdentifier>
+</TranslatedText>

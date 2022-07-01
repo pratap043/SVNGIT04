@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB14-35E36DA070E5">
+	<DocumentID>00505601-0E3C-11E6-EB14-35E36DA050E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB14-35E36DA050E5</Name>
+	<Description>Emp Cert List</Description>
+	<CreatedBy>Henri</CreatedBy>
+	<CreationDate>2016-08-02T11:17:29.46</CreationDate>
+	<Notes/>
+	<Text>Emp Cert List</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB14-35E36DA010E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

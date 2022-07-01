@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB28-CB83FDE8D0E5">
+	<DocumentID>00505601-0E3C-11E6-EB28-CB83FDE8B0E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB28-CB83FDE8B0E5</Name>
+	<Description>EEFR</Description>
+	<CreatedBy>Henri Kas</CreatedBy>
+	<CreationDate>2016-08-03T06:52:54.62</CreationDate>
+	<Notes/>
+	<Text>EEFR</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB28-CB83FDE870E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

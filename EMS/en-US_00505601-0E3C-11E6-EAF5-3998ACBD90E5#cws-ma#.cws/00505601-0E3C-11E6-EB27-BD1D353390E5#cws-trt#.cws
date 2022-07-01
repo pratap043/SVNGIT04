@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB27-BD1D3533B0E5">
+	<DocumentID>00505601-0E3C-11E6-EB27-BD1D353390E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB27-BD1D353390E5</Name>
+	<Description>ExpertLevelList</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2016-08-03T05:58:08.487</CreationDate>
+	<Notes/>
+	<Text>ExpertLevelList</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB27-BD1D353350E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1968-A1E7-824C-1948217FA24F">
+	<DocumentID>00505601-1968-A1E7-824C-1948217F624F</DocumentID>
+	<Name>00505601-1968-A1E7-824C-1948217F624F</Name>
+	<Description>Team Structure</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2017-03-15T04:10:55.081</CreationDate>
+	<Notes/>
+	<Text>Team Structure</Text>
+	<Language>
+		<uri
+			id="00505601-1968-A1E7-8247-4FD21008E24F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1968-A1E7-824C-1948217EE24F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

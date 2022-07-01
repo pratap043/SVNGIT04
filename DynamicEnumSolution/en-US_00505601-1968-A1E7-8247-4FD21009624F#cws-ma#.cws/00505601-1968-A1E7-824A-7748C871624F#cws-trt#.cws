@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-1968-A1E7-824A-7748C871A24F">
+	<DocumentID>00505601-1968-A1E7-824A-7748C871624F</DocumentID>
+	<Name>00505601-1968-A1E7-824A-7748C871624F</Name>
+	<Description>ScrumMaster</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2017-03-15T02:49:15.926</CreationDate>
+	<Notes/>
+	<Text>ScrumMaster</Text>
+	<Language>
+		<uri
+			id="00505601-1968-A1E7-8247-4FD21008E24F"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-1968-A1E7-824A-7748C870E24F"
+		/>
+	</TextIdentifier>
+</TranslatedText>

@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB27-8EB95869D0E5">
+	<DocumentID>00505601-0E3C-11E6-EB27-8EB95869B0E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB27-8EB95869B0E5</Name>
+	<Description>EmptoSkillLevel</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2016-08-03T05:48:03.971</CreationDate>
+	<Notes/>
+	<Text>EmptoSkillLevel</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB27-8EB9586970E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

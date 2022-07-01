@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB27-EB0766DFD0E5">
+	<DocumentID>00505601-0E3C-11E6-EB27-EB0766DFB0E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB27-EB0766DFB0E5</Name>
+	<Description>Employee Details For Reports</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2016-08-03T06:09:18.934</CreationDate>
+	<Notes/>
+	<Text>Employee Details For Reports</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB27-EB0766DF70E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

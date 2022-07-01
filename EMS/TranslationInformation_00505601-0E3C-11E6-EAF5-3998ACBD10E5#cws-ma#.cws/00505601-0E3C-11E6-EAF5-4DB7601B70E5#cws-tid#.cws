@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-0E3C-11E6-EAF5-4DB7601B90E5">
+	<DocumentID>00505601-0E3C-11E6-EAF5-4DB7601B70E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EAF5-4DB7601B70E5</Name>
+	<Description>Bangalore</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2016-08-01T05:41:11.219</CreationDate>
+	<Notes/>
+	<DefaultText>Bangalore</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBCD0E5"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-4DB7601BB0E5"
+		/>
+	</Translations>
+</TextIdentifier>

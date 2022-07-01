@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB0D-8AD4DE0070E5">
+	<DocumentID>00505601-0E3C-11E6-EB0D-8AD4DE0050E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB0D-8AD4DE0050E5</Name>
+	<Description>EmployeeManagerOtoO</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2016-08-02T04:49:42.924</CreationDate>
+	<Notes/>
+	<Text>EmployeeManagerOtoO</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB0D-8AD4DE0010E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

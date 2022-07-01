@@ -1,0 +1,71 @@
+
+<HomepageLayout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.homepageLayout.HomepageLayout"
+	RuntimeDocumentID="00505601-0E3C-11E6-EBA4-3A4EDEAF70E5">
+	<DocumentID>00505601-0E3C-11E6-EBA4-3A4EDEAF50E5</DocumentID>
+	<Name>Test</Name>
+	<Description>Test</Description>
+	<CreatedBy>Ramgopal Yarramaneni</CreatedBy>
+	<CreationDate>2016-08-08T04:38:42.464</CreationDate>
+	<Notes/>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;00505601-0E3C-11E6-EBA4-3A4EDEAF50E5&quot;,&quot;nodes&quot;:[{&quot;id&quot;:&quot;6eeaa71ce87eba46651938c1b1da5195&quot;,&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;nodes&quot;:[{&quot;id&quot;:&quot;cb69a7798cedd809380ab14abc255ebf&quot;,&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;6e5355a34a7ae9a42cab74d0f428346e&quot;,&quot;size&quot;:null,&quot;nodes&quot;:[]}]}]}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>false</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>false</IsFullLayout>
+	<IsPreviewLayout>false</IsPreviewLayout>
+	<LayoutType>1</LayoutType>
+	<ActionBarAssociations/>
+	<BuildingBlock/>
+	<DisplayName>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+			RuntimeDocumentID="00505601-0E3C-11E6-EBA4-3A4EDEAE10E5">
+			<DocumentID>00505601-0E3C-11E6-EBA4-3A4EDEADF0E5</DocumentID>
+			<Name>00505601-0E3C-11E6-EBA4-3A4EDEADF0E5</Name>
+			<Description>00505601-0E3C-11E6-EBA4-3A4EDEADF0E5</Description>
+			<CreatedBy>Ramgopal Yarramaneni</CreatedBy>
+			<CreationDate>2016-08-08T04:38:42.464</CreationDate>
+			<Notes/>
+			<DeveloperText>Test</DeveloperText>
+			<Identifier>
+				<uri
+					id="00505601-0E3C-11E6-EBA4-3A4EDEAE30E5"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</DisplayName>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="1FCC367D-DD5A-4E9C-8B4A-24BA4845ECB6"
+			RuntimeDocumentID="00505601-0E3C-11E6-EBA4-3A4EDEAD90E5">
+			<DocumentID>00505601-0E3C-11E6-EBA4-3A4EDEAD70E5</DocumentID>
+			<Name>iHub</Name>
+			<Description/>
+			<CreatedBy>Ramgopal Yarramaneni</CreatedBy>
+			<CreationDate>2016-08-08T04:38:42.464</CreationDate>
+			<Notes/>
+			<Definition>{&quot;sourceId&quot;:&quot;C5EC2E3612914048B4D6751B2669B987&quot;,&quot;sourceName&quot;:&quot;iHub&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;6e5355a34a7ae9a42cab74d0f428346e&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;url&quot;,&quot;value&quot;:&quot;\\Public\\Flight Performance.rptdesign&quot;},{&quot;name&quot;:&quot;selectediHubReport&quot;,&quot;value&quot;:&quot;Flight Performance&quot;},{&quot;name&quot;:&quot;selectediHubDiv&quot;,&quot;value&quot;:&quot;SpecifiedReport&quot;},{&quot;name&quot;:&quot;showToolbar&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;showFilterItem&quot;,&quot;value&quot;:&quot;false&quot;},{&quot;name&quot;:&quot;parameterName_1&quot;,&quot;value&quot;:null},{&quot;name&quot;:&quot;parameterDatatype_1&quot;,&quot;value&quot;:null},{&quot;name&quot;:&quot;parameterType_1&quot;,&quot;value&quot;:null},{&quot;name&quot;:&quot;propertyExpression_1&quot;,&quot;value&quot;:null}]}</Definition>
+			<DisplayName>iHub</DisplayName>
+			<ModelerId>6e5355a34a7ae9a42cab74d0f428346e</ModelerId>
+			<SourceId>C5EC2E3612914048B4D6751B2669B987</SourceId>
+			<SourceName>iHub</SourceName>
+			<ActionBarAssociation/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<WorklistAssociations/>
+	<XFormAssociations/>
+</HomepageLayout>

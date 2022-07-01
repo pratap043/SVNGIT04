@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB11-53537C9A90E5">
+	<DocumentID>00505601-0E3C-11E6-EB11-53537C9A70E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB11-53537C9A70E5</Name>
+	<Description>EmployeeLayOut</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2016-08-02T08:33:40.774</CreationDate>
+	<Notes/>
+	<Text>EmployeeLayOut</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB11-53537C9A30E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

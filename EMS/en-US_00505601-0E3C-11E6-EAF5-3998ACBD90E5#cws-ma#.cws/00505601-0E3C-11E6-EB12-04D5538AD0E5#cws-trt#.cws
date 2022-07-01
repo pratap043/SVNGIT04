@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB12-04D5538AF0E5">
+	<DocumentID>00505601-0E3C-11E6-EB12-04D5538AD0E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB12-04D5538AD0E5</Name>
+	<Description>JobTitleCount</Description>
+	<CreatedBy>Henri</CreatedBy>
+	<CreationDate>2016-08-02T10:14:27.778</CreationDate>
+	<Notes/>
+	<Text>JobTitleCount</Text>
+	<Language>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBD50E5"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0E3C-11E6-EB12-04D5538A90E5"
+		/>
+	</TextIdentifier>
+</TranslatedText>

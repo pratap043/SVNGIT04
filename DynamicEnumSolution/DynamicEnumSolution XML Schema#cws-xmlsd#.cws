@@ -1,0 +1,65 @@
+
+<XMLSchemaDefinitionDesigntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.xmlschema.XMLSchemaDefinitionDesigntime"
+	typeVersion="115056C0-0008-71DF-BA44-1FBB9814E83B"
+	RuntimeDocumentID="00505601-1968-A1E7-824F-8A75E13D224F">
+	<DocumentID>00505601-1968-A1E7-824F-8A75E13CE24F</DocumentID>
+	<Name>DynamicEnumSolution XML Schema</Name>
+	<Description>DynamicEnumSolution XML Schema</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2017-03-15T05:20:43.912</CreationDate>
+	<Notes/>
+	<ExternalURL></ExternalURL>
+	<Location></Location>
+	<NamespaceReferencePrefix>tns</NamespaceReferencePrefix>
+	<TargetNamespace>http://schemas/OpenTextDynamicEnumSolution/DynamicEnumEntity</TargetNamespace>
+	<WebserviceDefinitionSetID></WebserviceDefinitionSetID>
+	<XmlNode>
+		<xsd:schema
+			xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+			xmlns="http://schemas.cordys.com/xmlschema/XMLSchemaDefinitionDesigntime/1.0"
+			xmlns:tns="http://schemas/OpenTextDynamicEnumSolution/DynamicEnumEntity"
+			targetNamespace="http://schemas/OpenTextDynamicEnumSolution/DynamicEnumEntity"
+			elementFormDefault="qualified"
+		/>
+	</XmlNode>
+	<DefinitionSet/>
+	<SchemaFragments>
+		<BusinessObjectDocument
+			type="com.cordys.businessobjectdocument.BusinessObjectDocument"
+			typeVersion="6180B612-C311-46F9-BBCA-F7240137C95A"
+			RuntimeDocumentID="00505601-1968-A1E7-824F-8A75E139E24F">
+			<DocumentID>00505601-1968-A1E7-824F-8A75E139A24F</DocumentID>
+			<Name>DynamicEnumEntity</Name>
+			<Description>DynamicEnumEntity(element)</Description>
+			<CreatedBy>cordys</CreatedBy>
+			<CreationDate>2017-03-15T05:24:13.464</CreationDate>
+			<Notes/>
+			<AnnotationSpecificationXML/>
+			<DefinitionXML>
+				<xsd:element
+					xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+					xmlns="http://schemas.cordys.com/businessobjectdocument/BusinessObjectDocument/1.0"
+					name="DynamicEnumEntity">
+					<xsd:complexType>
+						<xsd:all>
+							<xsd:element
+								name="Designation"
+							/>
+						</xsd:all>
+					</xsd:complexType>
+				</xsd:element>
+			</DefinitionXML>
+			<FragmentName>DynamicEnumEntity</FragmentName>
+			<Type></Type>
+			<Realizations/>
+			<SchemaDefinition>
+				<uri
+					id="00505601-1968-A1E7-824F-8A75E13CE24F"
+				/>
+			</SchemaDefinition>
+		</BusinessObjectDocument>
+	</SchemaFragments>
+	<SchemaReferences/>
+</XMLSchemaDefinitionDesigntime>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="00505601-0E3C-11E6-EB0D-3A5BD4E9F0E5">
+	<DocumentID>00505601-0E3C-11E6-EB0D-3A5BD4E9D0E5</DocumentID>
+	<Name>00505601-0E3C-11E6-EB0D-3A5BD4E9D0E5</Name>
+	<Description>Software Engineer</Description>
+	<CreatedBy>cordys</CreatedBy>
+	<CreationDate>2016-08-02T04:47:42.984</CreationDate>
+	<Notes/>
+	<DefaultText>Software Engineer</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-0E3C-11E6-EAF5-3998ACBCD0E5"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="00505601-0E3C-11E6-EB0D-3A5BD4EA10E5"
+		/>
+	</Translations>
+</TextIdentifier>
