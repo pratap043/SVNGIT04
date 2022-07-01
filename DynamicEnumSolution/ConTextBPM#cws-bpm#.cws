@@ -857,7 +857,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-8249-DDBC5437A24F">
 					<DocumentID>00505601-1968-A1E7-8249-DDBC5437624F</DocumentID>
 					<Name>00505601-1968-A1E7-8249-DDBC5437624F</Name>
@@ -930,7 +930,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-50D8663A224F">
 					<DocumentID>00505601-1968-A1E7-824A-50D86639E24F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-50D86639E24F</Name>
@@ -992,6 +992,8 @@
 			<CreationDate>2017-03-15T02:46:25.158</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1002,12 +1004,25 @@
 			<DebugStep>no</DebugStep>
 			<DocumentationText></DocumentationText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
 			<FontSize>12</FontSize>
 			<LogData/>
 			<MonitorLevel>11</MonitorLevel>
 			<MonitoringEnabled>false</MonitoringEnabled>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<links/>
 			<ActivityMessages/>
@@ -1100,7 +1115,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-50D8662A624F">
 					<DocumentID>00505601-1968-A1E7-824A-50D8662A224F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-50D8662A224F</Name>
@@ -1152,7 +1167,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824C-1948218EE24F">
 					<DocumentID>00505601-1968-A1E7-824C-1948218EA24F</DocumentID>
 					<Name>00505601-1968-A1E7-824C-1948218EA24F</Name>
@@ -1242,7 +1257,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-50D8662EA24F">
 					<DocumentID>00505601-1968-A1E7-824A-50D8662E624F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-50D8662E624F</Name>
@@ -1304,6 +1319,8 @@
 			<CreationDate>2017-03-15T02:49:15.926</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1314,12 +1331,25 @@
 			<DebugStep>no</DebugStep>
 			<DocumentationText></DocumentationText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
 			<FontSize>12</FontSize>
 			<LogData/>
 			<MonitorLevel>11</MonitorLevel>
 			<MonitoringEnabled>false</MonitoringEnabled>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<links/>
 			<ActivityMessages/>
@@ -1384,7 +1414,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-6898EAB1624F">
 					<DocumentID>00505601-1968-A1E7-824A-6898EAB1224F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-6898EAB1224F</Name>
@@ -1436,7 +1466,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-50D86623E24F">
 					<DocumentID>00505601-1968-A1E7-824A-50D86623A24F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-50D86623A24F</Name>
@@ -1498,6 +1528,8 @@
 			<CreationDate>2017-03-15T02:49:15.925</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1508,12 +1540,25 @@
 			<DebugStep>no</DebugStep>
 			<DocumentationText></DocumentationText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
 			<FontSize>12</FontSize>
 			<LogData/>
 			<MonitorLevel>11</MonitorLevel>
 			<MonitoringEnabled>false</MonitoringEnabled>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<links/>
 			<ActivityMessages/>
@@ -1578,7 +1623,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-6898EAA8E24F">
 					<DocumentID>00505601-1968-A1E7-824A-6898EAA8A24F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-6898EAA8A24F</Name>
@@ -1630,7 +1675,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-6898EAACE24F">
 					<DocumentID>00505601-1968-A1E7-824A-6898EAACA24F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-6898EAACA24F</Name>
@@ -1692,6 +1737,8 @@
 			<CreationDate>2017-03-15T02:49:15.923</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1702,12 +1749,25 @@
 			<DebugStep>no</DebugStep>
 			<DocumentationText></DocumentationText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
 			<FontSize>12</FontSize>
 			<LogData/>
 			<MonitorLevel>11</MonitorLevel>
 			<MonitoringEnabled>false</MonitoringEnabled>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<links/>
 			<ActivityMessages/>
@@ -1772,7 +1832,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-6898EA9F624F">
 					<DocumentID>00505601-1968-A1E7-824A-6898EA9F224F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-6898EA9F224F</Name>
@@ -1824,7 +1884,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-6898EAA3624F">
 					<DocumentID>00505601-1968-A1E7-824A-6898EAA3224F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-6898EAA3224F</Name>
@@ -1886,6 +1946,8 @@
 			<CreationDate>2017-03-15T02:49:15.925</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -1896,12 +1958,25 @@
 			<DebugStep>no</DebugStep>
 			<DocumentationText></DocumentationText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
 			<FontSize>12</FontSize>
 			<LogData/>
 			<MonitorLevel>11</MonitorLevel>
 			<MonitoringEnabled>false</MonitoringEnabled>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<links/>
 			<ActivityMessages/>
@@ -1966,7 +2041,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-7748C870A24F">
 					<DocumentID>00505601-1968-A1E7-824A-7748C870624F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-7748C870624F</Name>
@@ -2018,7 +2093,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-824A-7748C874A24F">
 					<DocumentID>00505601-1968-A1E7-824A-7748C874624F</DocumentID>
 					<Name>00505601-1968-A1E7-824A-7748C874624F</Name>
@@ -3507,7 +3582,7 @@
 	<TranslatableName>
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
-			typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 			RuntimeDocumentID="00505601-1968-A1E7-8249-DDBC5439A24F">
 			<DocumentID>00505601-1968-A1E7-8249-DDBC5439624F</DocumentID>
 			<Name>00505601-1968-A1E7-8249-DDBC5439624F</Name>

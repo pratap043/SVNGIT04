@@ -11,6 +11,7 @@
 	<CreationDate>2016-08-01T05:35:58.192</CreationDate>
 	<Notes/>
 	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
 	<ISVPackageInfo>
 		<ISVPackageInfo
 			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
@@ -42,7 +43,7 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="00505601-247D-A1E9-9AB2-3D1414A680E6"
+			id="28DFEB6B-98A5-A1EC-BE41-501404BE0984"
 			path="EMS"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>

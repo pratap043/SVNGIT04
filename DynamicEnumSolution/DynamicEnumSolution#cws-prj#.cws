@@ -11,6 +11,7 @@
 	<CreationDate>2017-03-15T01:18:12.922</CreationDate>
 	<Notes/>
 	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
 	<ISVPackageInfo>
 		<ISVPackageInfo
 			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
@@ -42,7 +43,7 @@
 	<RuntimeQualifiedName/>
 	<SourceFolder>
 		<uri
-			id="00505601-247D-A1E9-9AB2-3D1415C940E6"
+			id="28DFEB6B-98A5-A1EC-BE41-501407084984"
 			path="DynamicEnumSolution"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>

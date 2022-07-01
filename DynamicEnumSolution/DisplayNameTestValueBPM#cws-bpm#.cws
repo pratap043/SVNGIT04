@@ -386,7 +386,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-8247-E1FC89E7224F">
 					<DocumentID>00505601-1968-A1E7-8247-E1FC89E6E24F</DocumentID>
 					<Name>00505601-1968-A1E7-8247-E1FC89E6E24F</Name>
@@ -414,6 +414,8 @@
 			<CreationDate>2017-03-15T01:40:25.234</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
 			<ClassicDebugCondition>false</ClassicDebugCondition>
 			<ClassicExecuteCondition>false</ClassicExecuteCondition>
 			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
@@ -424,12 +426,25 @@
 			<DebugStep>no</DebugStep>
 			<DocumentationText></DocumentationText>
 			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
 			<ExecuteCondition></ExecuteCondition>
 			<ExecutionUserType>currentOwner</ExecutionUserType>
 			<FontSize>12</FontSize>
 			<LogData/>
 			<MonitorLevel>11</MonitorLevel>
 			<MonitoringEnabled>false</MonitoringEnabled>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
 			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
 			<links/>
 			<ActivityMessages/>
@@ -520,7 +535,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-8247-E1FC89E4A24F">
 					<DocumentID>00505601-1968-A1E7-8247-E1FC89E4624F</DocumentID>
 					<Name>00505601-1968-A1E7-8247-E1FC89E4624F</Name>
@@ -644,7 +659,7 @@
 			<TranslatableName>
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
-					typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 					RuntimeDocumentID="00505601-1968-A1E7-8247-E1FC89E0A24F">
 					<DocumentID>00505601-1968-A1E7-8247-E1FC89E0624F</DocumentID>
 					<Name>00505601-1968-A1E7-8247-E1FC89E0624F</Name>
@@ -1157,7 +1172,7 @@
 	<TranslatableName>
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
-			typeVersion="45C16E88-6F36-465E-B18C-8A01E01D734C"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
 			RuntimeDocumentID="00505601-1968-A1E7-8247-E1FC89DBA24F">
 			<DocumentID>00505601-1968-A1E7-8247-E1FC89DB624F</DocumentID>
 			<Name>00505601-1968-A1E7-8247-E1FC89DB624F</Name>
